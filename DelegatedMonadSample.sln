@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegatedMonadSample", "DelegatedMonadSample\DelegatedMonadSample.csproj", "{FE8AA730-86AA-418B-A2AF-94C37276A45B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE8AA730-86AA-418B-A2AF-94C37276A45B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE8AA730-86AA-418B-A2AF-94C37276A45B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE8AA730-86AA-418B-A2AF-94C37276A45B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE8AA730-86AA-418B-A2AF-94C37276A45B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A338CCFB-8984-46EE-B39A-4BA94EC56992}
+	EndGlobalSection
+EndGlobal
